@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/newbanner"
+        android:gravity="fill"/>
+    <item android:gravity="top" android:top="100dp">
+        <bitmap
+            android:src="@drawable/doko"
+            android:gravity="center_horizontal"
+            >
+        </bitmap>
+    </item>
+</layer-list>
